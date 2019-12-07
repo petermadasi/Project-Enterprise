@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"Project.fee"}],"uuid":"84df3de2fcf748ac9fb2cd69fb8d1ce2"}
